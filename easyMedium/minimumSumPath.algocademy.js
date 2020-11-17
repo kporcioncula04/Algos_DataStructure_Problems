@@ -13,7 +13,6 @@
 //   return val
 // }
 
-
 function minPathSum(grid){
   let n = grid.length
   let m = grid[0].length
@@ -40,8 +39,6 @@ function minPathSum(grid){
 
   return grid[n-1][m-1]
 }
-
-
 
 console.log(minPathSum([
 [1,3,1],
