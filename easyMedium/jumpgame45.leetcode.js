@@ -14,3 +14,4 @@ console.log(jump([2,3,1,1,4]))
 
 
 
+//good explanation: https://www.youtube.com/watch?v=u8vVqcBsHTE
