@@ -47,3 +47,6 @@ console.log(numIslands(
     [0 ,0 ,1 ,0 ,0],
     [0 ,0 ,0 ,1 ,1]]))
 
+
+
+//good reference: https://www.youtube.com/watch?v=cFnUDdi6DeE
