@@ -19,4 +19,4 @@ function longestSubarrayWithoutReapeating(nums) {
   return result
 }
 
-longestSubarrayWithoutReapeating([2, 5, 6, 2, 3, 1, 5, 6])
+console.log(longestSubarrayWithoutReapeating([2, 5, 6, 2, 3, 1, 5, 6]))

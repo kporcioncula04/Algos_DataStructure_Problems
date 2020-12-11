@@ -3,7 +3,7 @@
 function nonOverlappingIntervals(intervals) {
 
   intervals.sort((first,second) => first[1]  - second[1])
-  console.log('sortedInt ->'intervals)
+  //console.log('sortedInt ->'intervals)
 
  let result = 1
  let lastTaken = 0
