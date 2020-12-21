@@ -19,4 +19,4 @@ function nonOverlappingIntervals(intervals) {
  return result
 }
 
-nonOverlappingIntervals([[1,2],[2,3],[3,4],[1,3]])
+console.log(nonOverlappingIntervals([[1,2],[2,3],[3,4],[1,3]]))

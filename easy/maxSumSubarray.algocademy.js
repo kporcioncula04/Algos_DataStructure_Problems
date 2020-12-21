@@ -15,3 +15,5 @@ function maxSumSubarray(nums) {
 }
 
 console.log(maxSumSubarray([-2, -5, 6, -2, -3, 1, 5, -6]))
+
+//BIG O - O(n^2)
