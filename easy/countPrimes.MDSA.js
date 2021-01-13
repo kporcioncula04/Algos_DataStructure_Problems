@@ -21,3 +21,4 @@ console.log(countPrimes(10))
 
 
 // https://leetcode.com/problems/count-primes/
+//https://medium.com/javascript-in-plain-english/algorithms-101-count-primes-in-javascript-97f1ff85e040
